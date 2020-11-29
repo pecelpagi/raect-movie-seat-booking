@@ -23,9 +23,11 @@ const movies = [
 ]
 const App = () => {
   return (
-    <div className="container">
-      <label>Pick a movie:</label>
-      <Select id="movie" data={movies} />
+    <div className="App">
+      <div className="movie-container">
+        <label>Pick a movie:</label>
+        <Select id="movie" data={movies} />
+      </div>
       <Showcase />
       <MovieSeat />
       <p className="text">You have selected <span>0</span> seats for a price of $<span>0</span></p>

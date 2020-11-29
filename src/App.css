@@ -1,3 +1,11 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 95vh;
+}
+
 .movie-container {
   margin: 20px 0;
 }
@@ -33,7 +41,7 @@
 }
 
 .seat.occupied {
-  background-color: #FFF;
+  background-color: #fff;
 }
 
 .seat:nth-of-type(2) {
@@ -75,17 +83,17 @@
   margin-left: 2px;
 }
 
+.row {
+  display: flex;
+}
+
 .screen {
-  background-color: #FFF;
+  background-color: #fff;
   height: 70px;
   width: 100%;
   margin: 15px 0;
   transform: rotateX(-45deg);
   box-shadow: 0 3px 10px rgba(255, 255, 255, 0.7);
-}
-
-.row {
-  display: flex;
 }
 
 p.text {
