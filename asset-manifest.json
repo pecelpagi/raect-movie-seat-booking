@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-movie-seat-booking/static/css/main.6ca8ad3c.chunk.css",
+    "main.js": "/react-movie-seat-booking/static/js/main.93052849.chunk.js",
+    "main.js.map": "/react-movie-seat-booking/static/js/main.93052849.chunk.js.map",
+    "runtime-main.js": "/react-movie-seat-booking/static/js/runtime-main.5c2315e7.js",
+    "runtime-main.js.map": "/react-movie-seat-booking/static/js/runtime-main.5c2315e7.js.map",
+    "static/js/2.284ea7f5.chunk.js": "/react-movie-seat-booking/static/js/2.284ea7f5.chunk.js",
+    "static/js/2.284ea7f5.chunk.js.map": "/react-movie-seat-booking/static/js/2.284ea7f5.chunk.js.map",
+    "static/js/3.b8e219e9.chunk.js": "/react-movie-seat-booking/static/js/3.b8e219e9.chunk.js",
+    "static/js/3.b8e219e9.chunk.js.map": "/react-movie-seat-booking/static/js/3.b8e219e9.chunk.js.map",
+    "index.html": "/react-movie-seat-booking/index.html",
+    "static/css/main.6ca8ad3c.chunk.css.map": "/react-movie-seat-booking/static/css/main.6ca8ad3c.chunk.css.map",
+    "static/js/2.284ea7f5.chunk.js.LICENSE.txt": "/react-movie-seat-booking/static/js/2.284ea7f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c2315e7.js",
+    "static/js/2.284ea7f5.chunk.js",
+    "static/css/main.6ca8ad3c.chunk.css",
+    "static/js/main.93052849.chunk.js"
+  ]
+}
